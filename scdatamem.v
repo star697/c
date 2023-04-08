@@ -1,4 +1,4 @@
-# c
+
 scdatamem.v
 /*将数据写入RAM中（随机存取存储器）的指定位置*/
 /*输入待写数据datain、目标地址addr；写使能信号we；时钟信号clk、inclk、outclk*/
